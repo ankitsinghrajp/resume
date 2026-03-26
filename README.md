@@ -1,76 +1,143 @@
-# 🧾 Ankit Singh Chouhan – Resume Repository
+# Ankit Singh Chouhan – Resume Repository
 
-Welcome to my resume repository! This repository contains my updated resume and a quick overview of my skills, projects, and background in software development.
-
-## 👨‍💻 About Me
-
-I'm Ankit Singh Chouhan, an experienced backend developer with strong proficiency in **Node.js**, **C++**, and full-stack web development. I’m passionate about solving complex problems and have solved over **200+ DSA challenges** across platforms like LeetCode and GFG. My goal is to build robust, scalable applications and continuously grow as a developer.
-
-📍 Ujjain, M.P.  
-📧 Email: ankitsinghchouhan682@gmail.com  
-🔗 [Portfolio Website](https://ankits-portfolio-omega.vercel.app)  
-🐱 [GitHub](https://github.com/ankitsinghrajp)  
-💼 [LinkedIn](https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252/)
+Welcome to my resume repository! This repository contains my updated resume along with an overview of my **skills, projects, and experience in full-stack and backend development**.
 
 ---
 
-## 🛠️ Skills
+## About Me
 
-### 💡 Programming Languages
-- C++, C, Java, JavaScript, Python, Node.js
+I’m **Ankit Singh Chouhan**, a full-stack developer with strong expertise in **backend systems, real-time applications, and scalable architectures**.
 
-### 🌐 Frontend
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- React.js, Next.js, Shadcn UI, GSAP
+*  Solved **200+ DSA problems** (LeetCode, GFG)
+*  Built **production-level full-stack applications**
+*  Focused on **scalable system design & real-world products**
 
-### 🧠 Backend
-- Node.js, Express.js, RESTful APIs
-- AI features: image recognition, AI search, resume generation
-
-### 🗃️ Databases
-- MongoDB, MySQL
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM), Heroku, Vercel, Render
-
-### 🔧 Tools & IDEs
-- Git & GitHub, Postman, IntelliJ IDEA, VS Code
+I aim to build **high-performance applications** and secure a top-tier software engineering role.
 
 ---
 
-## 📂 Projects
+## Contact
 
-### 🔹 [Elevate AI](https://github.com/ankitsinghrajp/elevate-ai)  
-*AI-Powered Resume & Job Prep Platform*  
-🔗 [Live](https://elevate-ai-iota.vercel.app/)  
-- Generate resumes, cover letters, take career quizzes  
-- Built with full-stack tech & AI integrations
-
-### 🔹 [SprintBoard](https://github.com/ankitsinghrajp/sprint-board)  
-*Team Task Management Tool*  
-🔗 [Live](https://sprint-board-nine.vercel.app/)  
-- Drag-and-drop sprints, real-time collaboration for teams
-
-### 🔹 [Arogya](https://github.com/ankitsinghrajp/arogya-doctors-appointment)  
-*Online Doctor Consultation Platform*  
-🔗 [Live](https://arogya-doctors-appointment.vercel.app/)  
-- Book appointments, real-time video calls, secure auth system
+*  Ujjain, Madhya Pradesh, India
+*  Email: [ankitsinghchouhan682@gmail.com](mailto:ankitsinghchouhan682@gmail.com)
+*  Porfolio Website: https://ankits-portfolio-omega.vercel.app
+*  GitHub: https://github.com/ankitsinghrajp
+*  LinkedIn: https://www.linkedin.com/in/ankit-singh-chouhan-6612bb252
 
 ---
 
-## 🎓 Education
+##  Skills
 
-**VIT Bhopal University** – *Integrated M.Tech in Computer Science*  
-📆 Aug 2022 – Mar 2027  
-📚 DSA, DBMS, Computer Networks, OS
+###  Programming Languages
 
-**Chaitanya Keerti School** – MP Board  
-- Class XII: 81.4% (2022)  
-- Class X: 90.33% (2020)
+C++, C, Java, JavaScript, Python
+
+###  Frontend
+
+* HTML5, CSS3, Tailwind CSS, Bootstrap
+* React.js, Next.js
+* ShadCN UI, GSAP
+
+###  Backend
+
+* Node.js, Express.js
+* RESTful APIs
+* JWT Authentication (Access + Refresh Tokens)
+* Real-time systems (WebSockets, Socket.io)
+* AI integrations (summarization, search, generation)
+
+###  Databases
+
+* MongoDB
+* MySQL
+* PostgreSQL (Neon)
+
+###  Cloud & DevOps
+
+* AWS (EC2, S3, IAM)
+* Vercel, Render
+* Docker
+
+###  Tools
+
+* Git & GitHub
+* Postman
+* VS Code, IntelliJ IDEA
 
 ---
 
-📥 Download my resume [here](./ankits-resume.pdf)
+##  Projects
 
-Thank you for checking out my work! 🙌
+###  LastMinutePreparation (LMP)
 
+**AI-Powered Exam Preparation Platform (SaaS)**
+  Live: https://www.lastminutepreparation.in
+
+*  1800+ users and ₹7,500+ revenue
+*  Built scalable backend with **Express + Inngest (queue system)**
+*  Implemented **polling-based async AI response system**
+*  Integrated **Razorpay payments**
+*  Deployed on **Vercel + AWS Lightsail**
+
+---
+
+###  TalkSphere
+
+**Real-Time Chat Application**
+  Live: https://chat-app-client-orpin-delta.vercel.app
+
+*  Built using **Socket.io (WebSockets)** for real-time messaging
+*  Group chat with admin controls
+*  Media sharing via Cloudinary
+*  JWT Authentication (Access + Refresh Tokens)
+*  Admin dashboard with analytics
+
+---
+
+###  Arogya
+
+**Doctor Appointment & Consultation Platform**
+ Live: https://arogya-doctors-appointment.vercel.app
+
+*  Multi-role system (Admin / Doctor / Patient)
+*  Video calling using **Vonage API**
+*  Authentication using **Clerk (Google login supported)**
+*  Appointment scheduling & availability system
+*  Built fully on **Next.js (Full Stack)**
+
+---
+
+###  SprintBoard
+
+**Kanban-Based Task Management System (Jira Inspired)**
+ Live: https://sprint-board-nine.vercel.app
+
+*  Drag-and-drop Kanban board
+*  Sprint & issue tracking system
+*  Clerk authentication with role-based access
+*  PostgreSQL (Neon) + Prisma ORM
+*  Fully deployed on Vercel
+
+---
+
+##  Education
+
+###  VIT Bhopal University
+
+**Integrated M.Tech in Computer Science & Engineering**
+ Aug 2022 – Mar 2027
+ **CGPA: 7.87**
+
+**Relevant Coursework:**
+
+* Data Structures & Algorithms
+* Operating Systems
+* Database Management Systems
+* Computer Networks
+
+---
+
+###  Chaitanya Keerti School (MP Board)
+
+* Class XII: **81.4% (2022)**
+* Class X: **90.33% (2020)**
